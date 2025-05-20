@@ -9,7 +9,6 @@ Este repositório contém soluções em Python para um desafio técnico com 5 qu
 - `desafio_3/` — Análise de faturamento diário com base em um arquivo JSON
 - `desafio_4/` — Cálculo de percentual de faturamento por estado
 - `desafio_5/` — Inversão de uma string sem usar funções prontas
-- `tests/` — Testes automatizados (opcional)
 
 ## ▶️ Como executar
 
