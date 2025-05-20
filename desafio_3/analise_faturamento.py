@@ -1,7 +1,6 @@
 # questao3.py
 import json
 
-# Suponha que você tenha um arquivo faturamento.json
 with open('desafio_3/faturamento.json') as f:
     dados = json.load(f)
 

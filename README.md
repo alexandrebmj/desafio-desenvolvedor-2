@@ -28,11 +28,11 @@ python desafio_2/fibonacci.py
 Para o desafio 3, o arquivo faturamento.json já está incluso na pasta desafio_3/.
 
 ## 📌 Requisitos
-# Python 3.10+
+### Python 3.10+
 
-# Sem bibliotecas externas (somente Python puro)
+### Sem bibliotecas externas (somente Python puro)
 
 ## 🧑‍💻 Autor
 
 Desenvolvido por **AlexandreBMJ** 🚀\
-GitHub: [alexandrebmj](https://github.com/alexandrebmj)
+Linkedin: [alexandrebmj](https://www.linkedin.com/in/alexandre-borges-028a2833b/)
